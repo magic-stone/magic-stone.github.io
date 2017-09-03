@@ -1,7 +1,14 @@
+body {
+	font: 11pt Segoe UI, sans-serif;
+	min-width: 1280px;
+	margin: 0 auto 0 auto;
+	line-height: 1.4;
+}
+
 .frontpage {
-	height: 450px;
+	height: 400px;
 	width: 100%;
-	padding-top: 130px;
+	padding-top: 120px;
 	background: url(darktheme.jpg) no-repeat center;
 	background-size: 100% 100%;
 	text-align: center;
@@ -21,7 +28,7 @@
 }
 
 .about {
-	position:absolute;
+	position:relative;
 	padding-top: 40px;
 }
 
@@ -30,13 +37,13 @@
 }
 
 .content-body {
-	padding-left: 250px;
-	padding-right: 250px;
+	padding-left: 120px;
+	padding-right: 120px;
 }
 
 .content-project {
-	padding-left: 300px;
-	padding-right: 300px;
+	padding-left: 120px;
+	padding-right: 120px;
 }
 
 .skills {
@@ -60,12 +67,12 @@ div .fa-stack .fa-circle {
 .text-main {
 	font-size: 22px;
 	text-align: justify;
-	text-indent: 40px;
+	text-indent: 25px;
 }
 
 .sub-title {
-	font-size: 30px;
-	padding-bottom: 5px;
+	font-size: 25px;
+	padding-bottom: 10px;
 	font-style: italic;
 	font-weight: bold;
 }
@@ -77,7 +84,7 @@ div .fa-stack .fa-circle {
 }
 
 .skill-list {
-	font-size: 18px;
+	font-size: 17px;
 }
 
 .text-list {
