@@ -1,0 +1,112 @@
+.frontpage {
+	height: 450px;
+	width: 100%;
+	padding-top: 130px;
+	background: url(darktheme.jpg) no-repeat center;
+	background-size: 100% 100%;
+	text-align: center;
+	color: white;
+}
+
+.name {
+	font-size: 60px;
+}
+
+.abstract {
+	font-size: 30px;
+}
+
+.list-inline .fa {
+	color: #EDEDEF;
+}
+
+.about {
+	position:absolute;
+	padding-top: 40px;
+}
+
+.empty {
+	padding-top: 120px;
+}
+
+.content-body {
+	padding-left: 250px;
+	padding-right: 250px;
+}
+
+.content-project {
+	padding-left: 300px;
+	padding-right: 300px;
+}
+
+.skills {
+	background-color: #0a8439;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	color: white;
+}
+
+div .fa-stack .fa-circle {
+	color: #a8d8f7;
+}
+
+.topic {
+	text-decoration: underline;
+	text-align: center;
+	letter-spacing: 1px;
+	padding-bottom: 10px;
+}
+
+.text-main {
+	font-size: 22px;
+	text-align: justify;
+	text-indent: 40px;
+}
+
+.sub-title {
+	font-size: 30px;
+	padding-bottom: 5px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.text-content {
+	font-size: 20px;
+	text-align: justify;
+	text-indent: 20px;
+}
+
+.skill-list {
+	font-size: 18px;
+}
+
+.text-list {
+	font-size: 20px;
+}
+
+.navbar-custom {
+  color: #FFFFFF;
+  background-color: Teal;
+}
+
+.navbar-brand {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.nav-item .nav-link {
+	font-size: 18px;
+	font-weight: bold; 
+}
+
+.block {
+	padding-top:40px;
+}
+
+.img-portfolio {
+	padding-top: 10px;
+	padding-left: 150px;
+	padding-bottom: 10px;
+	height: 300px;
+}
+
